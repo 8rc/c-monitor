@@ -9,5 +9,5 @@
 # use
  run it with: ./main
 
-![screenshot](image.png)
 ```
+![screenshot](image.png)
