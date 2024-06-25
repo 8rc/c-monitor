@@ -1,3 +1,4 @@
+```
 # c-monitor
  cpu usage monitor written in c
 
@@ -9,3 +10,4 @@
  run it with: ./main
 
 ![screenshot](image.png)
+```
